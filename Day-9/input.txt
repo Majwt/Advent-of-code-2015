@@ -1,0 +1,63 @@
+Straylight to Arbre 127
+Straylight to Tambi 107
+Straylight to Snowdin 88
+Straylight to Alpha 133
+Straylight to Tristram 89
+Straylight to Norrath 115
+Straylight to Faerun  66
+
+Tristram to Alpha 34
+Tristram to Snowdin 100
+Tristram to Tambi 63
+Tristram to Faerun 108
+Tristram to Norrath 111
+Tristram to Straylight 89
+Tristram to Arbre 132
+
+Alpha to Tristram 34
+Alpha to Snowdin 4
+Alpha to Tambi  79
+Alpha to Faerun  44
+Alpha to Norrath 147
+Alpha to Straylight 133
+Alpha to Arbre  74
+
+Snowdin to Tambi 105
+Snowdin to Faerun 95
+Snowdin to Norrath 48
+Snowdin to Straylight 88
+Snowdin to Arbre 7
+Snowdin to Alpha  4
+Snowdin to Tristram 100
+
+Tambi to Faerun  68
+Tambi to Norrath 134
+Tambi to Straylight  107
+Tambi to Arbre  40
+Tambi to Tristram 63
+Tambi to Snowdin 105
+Tambi to Alpha  79
+
+Faerun to Norrath  11 
+Faerun to Straylight 66
+Faerun to Arbre  40
+Faerun to Snowdin  95
+Faerun to Tambi  68
+Faerun to Alpha  44
+Faerun to Tristram  108
+
+Norrath to Straylight  115
+Norrath to Tristram  111
+Norrath to Alpha 147
+Norrath to Snowdin 48
+Norrath to Faerun 11 
+Norrath to Arbre 135
+Norrath to Tambi 134
+
+Arbre to Tristram 132
+Arbre to Alpha  74
+Arbre to Snowdin 7 
+Arbre to Tambi  40 
+Arbre to Norrath 135
+Arbre to Faerun  144
+Arbre to Straylight 127
